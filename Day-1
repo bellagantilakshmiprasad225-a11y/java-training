@@ -39,6 +39,150 @@ next()                        Vardhan                  String
 next().charAt()               A                        char
 nextBoolean()                 true                     Boolean
 
+founder of java-> James Gosling
+first project -> oak tree (satellite project)
+1991 -> Green Project -James Gosling and a small team at sun microsystems explore  software for consumer devices  
+1991 -> Named Oak 
+1992 -> Star7Demo 
+1995 -> Renamed Java 
+1996 -> JDK 1.0 - First official (January 1996)- java goes mainstream 
+
+JAVA 1.0 -> JAN 1996  - JVM , core libraries, applets-"Write once , RUN anywhere" 
+JAVA 8 (LTS)- lambdas, Stream API , new date/time API(APllication Programming Interface)
+JAVA 11(sep 2018) - First LTS of the 6 month , standard HTTP client
+Present Latest version of JAVA is  - JAVA SE 27 
+
+>>>PRIMITIVE DATATYPES:
+INT, FLOAT, BYTE, LONG, DOUBLE, CHAR
+>>>>NON-PRIMITIVE:
+STRING, ARRAY, CLASS, INTERFACE
+Mandatory Syntax Rules
+
+• Declare the data type first. Every variable needs a type before its name (e.g., int age = 25;).
+• Allowed characters. Names can only contain letters, digits, underscores (_), and dollar signs ($).
+• Starting character. Names must start with a letter, _, or $—never a digit (1num is invalid).
+• No spaces. Variable names cannot contain blank spaces (my age is invalid).
+• No reserved keywords. You cannot use Java keywords like int, class, public, or void as variable names.
+• Case-sensitive. age and Age are treated as two completely different variables.
+
+Standard Naming Conventions 
+
+• Use camelCase. Start with a lowercase letter and capitalize subsequent words (e.g., studentName, totalAmount).
+• Constants in UPPER_CASE. Use all caps with underscores for final constant variables (e.g., final int MAX_SPEED = 120;).
+
+SCANNER METHOS               EXAMPLE                  RETURN TYPE
+nexInt()                      25                       int
+nextLong()                   87345665                  long
+nextFloat()                   85.5f                    float
+nextDouble()                  250000.55                double
+nextLine()                   Hello Java                String
+next()                        Vardhan                  String
+next().charAt()               A                        char
+nextBoolean()                 true                     Boolean
 
 
-                       JAVA  OPERATORS
+
+                       JAVA  OPERATORSfounder of java-> James Gosling
+first project -> oak tree (satellite project)
+1991 -> Green Project -James Gosling and a small team at sun microsystems explore  software for consumer devices  
+1991 -> Named Oak 
+1992 -> Star7Demo 
+1995 -> Renamed Java 
+1996 -> JDK 1.0 - First official (January 1996)- java goes mainstream 
+
+JAVA 1.0 -> JAN 1996  - JVM , core libraries, applets-"Write once , RUN anywhere" 
+JAVA 8 (LTS)- lambdas, Stream API , new date/time API(APllication Programming Interface)
+JAVA 11(sep 2018) - First LTS of the 6 month , standard HTTP client
+Present Latest version of JAVA is  - JAVA SE 27 
+
+>>>PRIMITIVE DATATYPES:
+INT, FLOAT, BYTE, LONG, DOUBLE, CHAR
+>>>>NON-PRIMITIVE:
+STRING, ARRAY, CLASS, INTERFACE
+Mandatory Syntax Rules
+
+• Declare the data type first. Every variable needs a type before its name (e.g., int age = 25;).
+• Allowed characters. Names can only contain letters, digits, underscores (_), and dollar signs ($).
+• Starting character. Names must start with a letter, _, or $—never a digit (1num is invalid).
+• No spaces. Variable names cannot contain blank spaces (my age is invalid).
+• No reserved keywords. You cannot use Java keywords like int, class, public, or void as variable names.
+• Case-sensitive. age and Age are treated as two completely different variables.
+
+Standard Naming Conventions 
+
+• Use camelCase. Start with a lowercase letter and capitalize subsequent words (e.g., studentName, totalAmount).
+• Constants in UPPER_CASE. Use all caps with underscores for final constant variables (e.g., final int MAX_SPEED = 120;).
+
+SCANNER METHOS               EXAMPLE                  RETURN TYPE
+nexInt()                      25                       int
+nextLong()                   87345665                  long
+nextFloat()                   85.5f                    float
+nextDouble()                  250000.55                double
+nextLine()                   Hello Java                String
+next()                        Vardhan                  String
+next().charAt()               A                        char
+nextBoolean()                 true                     Boolean
+
+
+
+                       founder of java-> James Gosling
+first project -> oak tree (satellite project)
+1991 -> Green Project -James Gosling and a small team at sun microsystems explore  software for consumer devices  
+1991 -> Named Oak 
+1992 -> Star7Demo 
+1995 -> Renamed Java 
+1996 -> JDK 1.0 - First official (January 1996)- java goes mainstream 
+
+JAVA 1.0 -> JAN 1996  - JVM , core libraries, applets-"Write once , RUN anywhere" 
+JAVA 8 (LTS)- lambdas, Stream API , new date/time API(APllication Programming Interface)
+JAVA 11(sep 2018) - First LTS of the 6 month , standard HTTP client
+Present Latest version of JAVA is  - JAVA SE 27 
+
+>>>PRIMITIVE DATATYPES:
+INT, FLOAT, BYTE, LONG, DOUBLE, CHAR
+>>>>NON-PRIMITIVE:
+STRING, ARRAY, CLASS, INTERFACE
+Mandatory Syntax Rules
+
+• Declare the data type first. Every variable needs a type before its name (e.g., int age = 25;).
+• Allowed characters. Names can only contain letters, digits, underscores (_), and dollar signs ($).
+• Starting character. Names must start with a letter, _, or $—never a digit (1num is invalid).
+• No spaces. Variable names cannot contain blank spaces (my age is invalid).
+• No reserved keywords. You cannot use Java keywords like int, class, public, or void as variable names.
+• Case-sensitive. age and Age are treated as two completely different variables.
+
+Standard Naming Conventions 
+
+• Use camelCase. Start with a lowercase letter and capitalize subsequent words (e.g., studentName, totalAmount).
+• Constants in UPPER_CASE. Use all caps with underscores for final constant variables (e.g., final int MAX_SPEED = 120;).
+
+SCANNER METHOS               EXAMPLE                  RETURN TYPE
+nexInt()                      25                       int
+nextLong()                   87345665                  long
+nextFloat()                   85.5f                    float
+nextDouble()                  250000.55                double
+nextLine()                   Hello Java                String
+next()                        Vardhan                  String
+next().charAt()               A                        char
+nextBoolean()                 true                     Boolean
+
+1. Conditional Statements
+Conditional statements allow a program to make decisions and execute different blocks of code based on whether a condition evaluates to true or false.
+• if: Executes a block of code only if a specified condition is true.
+• if-else: Executes one block of code if the condition is true, and a different block if it is false.
+• else-if ladder: Checks multiple conditions in sequence until one evaluates to true.
+• nested if: Places an if statement inside another if statement to test multiple layers of conditions.
+• switch: Selects one of many code blocks to execute based on the value of a single variable or expression.
+
+2. Looping Statements
+Looping statements repeatedly execute a block of code as long as a specified condition remains true.
+• for: Repeats a block of code a specific, predetermined number of times.
+• while: Checks a condition before running the code block, repeating as long as the condition stays true.
+• do-while: Executes the code block at least once before checking the condition to decide whether to repeat.
+
+3. Jumping Statements
+Jumping statements alter the normal, sequential flow of a program by transferring control directly to another part of the code.
+• continue: Skips the remaining code in the current iteration of a loop and moves directly to the next iteration.
+• break: Immediately terminates the current loop or switch statement and moves execution to the code following it.
+• return: Exits the current function entirely and optionally sends a value back to the part of the program that called it.
+
